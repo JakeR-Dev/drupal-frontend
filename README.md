@@ -1,4 +1,4 @@
-# Front-end for a Drupal headless setup
+# Drupal headless front-end
 
 Built with:
 - React
